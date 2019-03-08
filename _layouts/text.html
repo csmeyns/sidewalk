@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+    <div class="object">
+            <div class="year">
+            	{{ page.publish }} </br></br> 
+            	{% if page.publication %}
+	            	<b>Publication: </b> {{ page.publication }} </br></br> 
+	            {% endif %}
+            	<b>Summary: </b> {{ page.description }} </br></br> 
+            	<b>Keywords: </b> {{ page.keywords }} </br></br> 
+				{% if page.pdf %}
+            		<b>{{ page.pdf }}</b>
+				{% endif %}
+            </div>
+            <div class="essay">
+            <article>
+               <h3>{{ page.title }}</h3>
+
+    {{ content }}
+
+</article>
+        </div>
+
+
+
+
