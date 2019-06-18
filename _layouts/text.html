@@ -8,12 +8,14 @@ layout: default
             	{% if page.publication %}
 	            	<b>Publication: </b> {{ page.publication }} </br></br> 
 	            {% endif %}
+                {% if page.pdf %}
+                    <b>{{ page.pdf }}</b></br></br>
+                {% endif %}
             	<b>Summary: </b> {{ page.description }} </br></br> 
             	<b>Keywords: </b> {{ page.keywords }} </br></br> 
-				{% if page.pdf %}
-            		<b>{{ page.pdf }}</b>
-				{% endif %}
+                {% include share.html %}
             </div>
+
             <div class="essay">
             <article>
                <h3>{{ page.title }}</h3>
