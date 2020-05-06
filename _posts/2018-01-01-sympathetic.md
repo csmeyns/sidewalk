@@ -8,7 +8,7 @@ categories: Work
 published: January 2018
 year: 2018
 publication: Philosophical Explorations, vol. 21, issue 1, 2018, pp. 60-75, doi 10.1080/13869795.2017.1421691<a href="https://doi.org/10.1080/13869795.2017.1421691" target="_blank"> ↗</a>
-image: ../images/sympathetic1.jpg
+image: ../images/cavanimism1.jpg
 ---
 
 ![Plants and nails](../images/sympathetic1.jpg)

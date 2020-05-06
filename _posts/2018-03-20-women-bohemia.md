@@ -2,7 +2,7 @@
 layout: text
 pdf: <a href="../extras/meyns_bohemia-agency.pdf" target="_blank">PDF</a>
 title: Women Philosophers Get No Agency -- Elisabeth of Bohemia
-tags: Essay
+tags: Article
 description: Essay on agency and women in philosophy
 publish: March 2018
 keywords: women in philosophy, Elisabeth of Bohemia, publishing, agency, early modern

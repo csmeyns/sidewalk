@@ -1,6 +1,21 @@
 ---
-layout: default
+layout: projects
 title: "Chris Meyns"
 ---
 
-<div class="intro preview clearfix"><a href="/about">Chris Meyns<img src="/images/hp_portrait.jpg" alt="Chris Meyns"/></a> is a philosopher and historian of science based in Amsterdam, NL. They regularly <a href="/work"><img src="/images/hp_text.jpg" alt="Work"/>write</a>, give <a href="/events"><img src="/images/hp_talks.jpg" alt="Speaking"/>talks</a> in places worldwide, and organize <a href="/events"><img src="/images/hp_event.jpg" alt="Events"/>events</a>.</div>
+<main class="preview" id="all-container">
+  {% for post in site.posts %}
+
+        <a href="{{ site.baseurl }}{{ post.url }}">
+        <div class="object">
+            <div class="project">{{ post.title }}</div>
+            <div class="type">{{ post.tags }}</div>
+            <div class="year">{{ post.year }}</div>
+        </div>
+            <img src="{{ post.image }}"></a>
+
+    {% endfor %}
+
+    </main>
+
+<section class="clear"></section>

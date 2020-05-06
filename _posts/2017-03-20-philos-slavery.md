@@ -1,7 +1,7 @@
 ---
 layout: text
 title: Why Don’t Philosophers Talk About Slavery?
-tags: Essay
+tags: Article
 pdf: <a href="../extras/meyns_philosophers-slavery.pdf" target="_blank">Download PDF</a>
 description: Essay which asks why philosophers have been silent on slavery in the history of their field
 publish: 28 October 2017
