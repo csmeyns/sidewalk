@@ -6,7 +6,7 @@ tags: Article
 description: One of Anton Wilhelm Amo’s core contributions to philosophy is his study of the human mind. Amo argues that the human mind is a purely active, immaterial substance that always acts spontaneously and cannot itself be acted upon. Amo’s account of the mind has far-reaching consequences for how he views the relation between mind and body, and our cognitive relation to the sensible world around us. This article introduces Amo’s strongly representationalist position, and discusses the extent to which he circumvents the problem of epistemic isolation to which his views seem to give rise.
 categories: Work
 publish: February 2019
-publication: Philosophy Compass, Volume 14, Issue 3 <a href="https://doi.org/10.1111/phc3.12571" target="_blank">↗</a>
+publication: <a href="https://doi.org/10.1111/phc3.12571" target="_blank">Philosophy Compass, Volume 14, Issue 3, https://doi.org/10.1111/phc3.12571 ↗</a>
 year: 2019
 keywords: Anton Wilhelm Amo, philosophy of mind, early modern philosophy, mind-body problem, perception, mental representation, attention
 image: ../images/amophilmind1.jpg
