@@ -87,8 +87,3 @@ Information is everywhere around us: from tree rings, to shopping lists and quan
 - 19) Computers and system(s) science—the kingpins of modern technology: Lotfi Zadeh’s glimpses into the future of the information revolution
 - [Rudolf Seising](https://scholar.google.com/citations?user=YO01D9sAAAAJ)   
 <br>
- 
-
-### Book preview
-
-<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.nl/books?id=3_sqEAAAQBAJ&lpg=PP1&pg=PR4&output=embed" width=700 height=500></iframe>
