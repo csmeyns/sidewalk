@@ -15,7 +15,7 @@ keywords: information, history, philosophy, history of science
 
 Information is everywhere around us: from tree rings, to shopping lists and quantified selves. But what exactly is information? How is it acquired, processed, or controlled? How does it shape human lives and societies? This volume offers original studies into the philosophical history of thinking about information, addressing questions regarding its metaphysics, epistemology, ethics and socio-politics. As such, the collection provides the first sustained investigation of the notion of information in the history of philosophy.
 
-### Table of Contents
+### Contents
 
 - Introduction
 - [Chris Meyns](https://chrismeyns.xyz)
